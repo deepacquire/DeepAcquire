@@ -1,4 +1,4 @@
-# Acquire Language
+# DeepAcquire
 
 [
     [English](./README.md) |
@@ -8,7 +8,7 @@
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/your-extension-id?label=Chrome%20Web%20Store&style=flat-square)](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio)
 
 > [!TIP]
-> [Acquire Language](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio) is not open source currently. This repository is for introduction and feedback. You can use github issues to report bugs or suggest new features.
+> Thanks for your interest in [DeepAcquire](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio)! This repository is for the introduction and feedback of the application. You can use GitHub Issues to report bugs or suggest new features. It currently does not contain source code.
 
 ## Overview
 
@@ -18,16 +18,14 @@ AI-powered language learning extension for YouTube videos with free and open thi
 
 Transform your video watching into an immersive language learning experience!
 
-[Acquire Language](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio)
-is a powerful Chrome extension that turns YouTube into your personal language learning platform. Whether you're a beginner or advanced learner, this extension helps you learn languages naturally through video content.
+[DeepAcquire](https://chrome.google.com/webstore/detail/pnobdlbfobamledoecdignpneeoohhio) is a powerful Chrome extension that turns YouTube into your personal language learning platform. Whether you're a beginner or advanced learner, this extension helps you learn languages naturally through video content.
 
 ## 🔓 Free & Open AI Integration
 
 - **Third-party AI integration completely FREE** - Connect your own AI services at no cost
 - **Bring Your Own AI** - Full freedom to choose and configure your preferred AI provider
-- **Mainstream AI Providers Supported**: OpenAI, DeepSeek, Anthropic Claude, Google Gemini, Azure OpenAI, and more
-- **Open API Architecture** - Compatible with any OpenAI-compatible API service
-- **Your Keys, Your Control** - Use your own API keys for maximum privacy and control
+- **Mainstream AI Providers Supported**: OpenAI, DeepSeek, Anthropic Claude, Google Gemini, Azure OpenAI, etc.
+
 
 ## 🎯 Key Features
 
@@ -49,14 +47,53 @@ is a powerful Chrome extension that turns YouTube into your personal language le
 - Choose your proficiency level (A1-C2)
 - Customize subtitle appearance (size, position, color, transparency)
 
-### Flexible Third-Party AI Integration (FREE)
 
-- **OpenAI** (GPT-3.5, GPT-4, GPT-4o, GPT-4o-mini)
-- **DeepSeek** (Ultra cost-effective option)
-- **Anthropic Claude** (Claude-3.5-Sonnet, Claude-3-Haiku)
-- **Google Gemini** (Gemini-1.5-Pro, Gemini-1.5-Flash)
-- **Azure OpenAI** (Enterprise-grade)
-- **Any OpenAI-compatible API** (Ollama, LocalAI, etc.)
+## 💡 Why Choose DeepAcquire
+
+**DeepAcquire** aims to be the **"Cursor of language learning"**. Just as Cursor changed how we write code by deeply integrating AI into the workflow, DeepAcquire transforms how we learn languages by integrating AI into content consumption.
+
+### 1. AI-Refined Subtitles
+
+We don't just show native YouTube subtitles. We use AI to improve the original auto-generated ones. DeepAcquire corrects punctuation, fixes sentence break errors, and provides a cleaner, more readable subtitle experience than the default.
+
+### 2. Adaptive Explanations
+
+This is where the "AI-First" philosophy shines. The AI explains vocabulary based on the **specific video context** and your **current proficiency level**.
+
+- **For Beginners:** It uses simple vocabulary to explain concepts.
+- **For Advanced Learners:** It provides nuance explanations and example sentences relevant to your daily life.
+
+### 3. Deep Dives & Q&A
+
+This is the key difference: you can "chat" directly with the video. For example:
+
+- Confused by two similar-looking words?
+
+  > **Ask DeepAcquire:** "Are these two words etymologically related?"
+
+- Or struggling to distinguish subtle differences between synonyms?
+  > **Ask DeepAcquire:** "Why do we use A instead of B in this current scenario?"
+
+You don't need to leave the immersive video environment. DeepAcquire is aware of the video context you're watching. With one click, you get precise, context-aware explanations and analysis, which can be synced to your vocabulary book for future review.
+
+### 4. Contextual Recall
+
+When reviewing words, we don't just show "Word -> Native Meaning". We save the **exact scene and context** where you first encountered the word. This helps you recall that "moment," making the memory stronger than a mechanical definition.
+
+### 5. Shadowing Mode
+
+DeepAcquire introduces a **Shadowing Mode** designed for focused reading and speaking practice. It highlights the word being pronounced, letting you focus on the current word and sentence, mimicking natural speech flow. This helps you track pronunciation more easily and improve listening and speaking skills.
+
+## Comparison Table
+
+| Feature | DeepAcquire | Standard Tools (Language Reactor, eJoy) |
+| :--- | :---: | :---: |
+| **Subtitle Quality** | ✅ **AI-Refined** (Punctuation & breaks) | Native YouTube Subtitles |
+| **Vocabulary Explanations** | ✅ **Adaptive** (Context & Level based) | Static Dictionary Definitions |
+| **Interactive Q&A** | ✅ Chat with video & Free questions | ❌ No questions allowed |
+| **Review Method** | ✅ **Contextual Recall** (Exact scenes) | Standard Flashcards |
+| **Shadowing** | ✅ **Focus Reading** | ❌ No shadowing focus mode |
+
 
 ## 🌟 Perfect for
 
@@ -75,15 +112,5 @@ is a powerful Chrome extension that turns YouTube into your personal language le
 3. Set your language preferences
 4. Visit any YouTube video and enable subtitles
 5. Start learning with enhanced, interactive subtitles!
-
-## 💡 Why Choose Acquire Language
-
-- **Free third-party AI integration** – Connect your own AI services at no extra cost; pay only your AI provider directly, with zero markup.
-- **Maximum flexibility** – Choose from dozens of AI providers.
-- **Unlimited follow-up questions** – Go beyond simple translations: ask anything related to the word, such as explanations of commonly confused terms.
-- **Optimized for YouTube AI subtitles** – Improved layout for YouTube's auto-generated captions, delivering an excellent reading experience even when subtitles are automatically generated.
-- **Light and dark mode support** – Seamlessly adapts to your preferred theme for comfortable viewing in any lighting condition.
-
-**Supported Languages:** Multiple language pairs supported through advanced AI translation models.
 
 Start your language learning journey today - connect your favorite AI service and turn every YouTube video into a learning opportunity!
