@@ -12,7 +12,7 @@
 
 ## Overview
 
-AI-powered language learning extension for YouTube videos with free and open third-party AI service integration.
+AI-native language learning application for YouTube videos with free and open third-party AI service integration.
 
 ## Detailed Description
 
